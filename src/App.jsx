@@ -8,6 +8,7 @@ function App() {
   return (
     <div className="App">
       <p>Halla</p>
+      <h1>Restauranter</h1>
     </div>
   )
 }
